@@ -1,2 +1,2 @@
-echo ' ---> SO NICE runSH'
+echo ' --->  TEST runSH'
 sleep 5m
