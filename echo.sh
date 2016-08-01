@@ -1,2 +1,2 @@
-echo ' ---> Hello runShnew'
+echo ' ---> SO NICE runSH'
 sleep 5m
