@@ -1,3 +1,3 @@
 echo ' --->  TEST runSH'
-#sleep 5m
+sleep 2m
 echo ' --->  TEST after sleep'
